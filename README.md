@@ -20,8 +20,8 @@ Opportunities for Optimization: Detected areas where energy efficiency can be im
 
 🚀 Files
 
-Energy_Consumption → Table schema in Snowflake  
+Energy_Consumption.sql → Table schema in Snowflake  
 
-Renewable_Energy_Raw → Raw dataset  
+Renewable_Energy_Raw.csv → Raw dataset  
 
-Renewable_Energy_Cleaned → Final cleaned dataset
+Renewable_Energy_Cleaned.csv → Final cleaned dataset
